@@ -1,4 +1,4 @@
-# End-to-End-Data-Engineering-Platform-Databricks-Medallion-Architecture
+# Employee Performance Analytics Platform
 
 An end-to-end data engineering project built using **Azure Databricks, PySpark and Delta Lake**, following the Medallion Architecture to ingest, transform, validate and organise operational retail data into structured datasets ready for analytics.
 
